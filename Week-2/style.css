@@ -1,0 +1,47 @@
+/* Nedenini bilmiyorum ama sudokuyu ortalayamadım her şeyi denedim ama olmaadı :(*/
+
+body{
+  background-color: #a7a7a6;
+  text-align: center;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+h1{
+  color: #201e3f;
+  font-size: 70px;
+  text-decoration-line: underline;
+}
+
+.container{
+  border: 6px solid #201e3f;
+  width: 950px;
+  height: 950px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+    background-color: #eee5e3;
+}
+
+.box{
+  border: 4px solid #9ba5c3;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #d2909e;
+}
+
+.sml-box{
+  border: 2px solid black;
+  width: 90px;
+  height: 90px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 50px;
+  background-color: #f1f4f6;
+}
