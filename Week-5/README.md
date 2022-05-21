@@ -1,4 +1,4 @@
-# HOW is the WEATHER?
+# How is the Weather?
 
 In this project, I experienced data transfer between components using React.js and Reactstrap.
 When we enter the temperature value of the air in celcius in the How is the Weather project, we can access the value in Fahrenheit and Kelvin.
