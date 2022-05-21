@@ -3,7 +3,7 @@ const Header = () => {
     return(
         <div className="ui fixed menu">
             <div className="ui container center">
-                <h2>PetShop</h2>
+                <h2>MyShop</h2>
             </div>
         </div>
     )
