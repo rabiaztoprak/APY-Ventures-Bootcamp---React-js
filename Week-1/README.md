@@ -1,1 +1,1 @@
-# HTML Calculater project
+# HTML Calculater Project
