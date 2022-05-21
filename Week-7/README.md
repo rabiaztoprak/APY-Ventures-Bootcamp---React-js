@@ -1,3 +1,9 @@
+# React Redux, Axios and Rest API
+In this project, I developed a web site called MyShop using React Redux, Axios library Rest API.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
